@@ -1,0 +1,6 @@
+com\example\interfaces\Subscriber.class
+com\example\Main.class
+com\example\model\Topic.class
+com\example\model\User.class
+com\example\enums\AlertType.class
+com\example\model\Alert.class
